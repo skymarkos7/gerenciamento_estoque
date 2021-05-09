@@ -1,0 +1,5 @@
+author: marcos lourenço de souza
+profision: analista de sistemas
+init: 07/05/2021
+
+Description: sistema criado com objetivo de gerenciar de forma generica os mais diversos tipos de estoques.
