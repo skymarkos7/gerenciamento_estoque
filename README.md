@@ -17,7 +17,7 @@ Esse sistema vem com o desejo de fornecer um GERENCIAMENTO DE ESTOQUE de forma s
 * alternativa
 * [acesse o link](www.eumesmo.com)
 
-### construido com a contribuição de... ###
+### Construido com a contribuição de... ###
 
 * Marcos Lourenço de Souza
 
