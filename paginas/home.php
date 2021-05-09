@@ -192,12 +192,7 @@
                                             </i><s>Pedidos</s>
                                         </a>
                                     </li>
-                                    <li>
-                                        <a href="elements-badges-labels.html">
-                                            <i class="metismenu-icon">
-                                            </i><s>Estatísticas</s>
-                                        </a>
-                                    </li>
+                                    
                             </li>
                         </ul>
                         </li>
@@ -223,12 +218,7 @@
                                         </i>Acrescentar
                                     </a>
                                 </li>
-                                <li>
-                                    <a href="elements-badges-labels.html">
-                                        <i class="metismenu-icon">
-                                        </i>Estatísticas
-                                    </a>
-                                </li>
+                                
                         </li>
                         </ul>
                         </li>
@@ -244,13 +234,13 @@
                                 <li>
                                     <a href="paginas\cadastrar_cliente.php">
                                         <i class="metismenu-icon">
-                                        </i><s>Cadastrar Clientes*</s>
+                                        </i>Estoque minimo
                                     </a>
                                 </li>
                                 <li>
                                     <a href="components-calendar.html">
                                         <i class="metismenu-icon">
-                                        </i>Calendar
+                                        </i>Estatísticas
                                     </a>
                                 </li>
                             </ul>
