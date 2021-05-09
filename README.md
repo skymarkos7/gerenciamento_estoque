@@ -1,6 +1,6 @@
 # Leia-me #
 
-Esse sistema vem com o desejo de fornecer um GERENCIAMENTO DE ESTOQUE de forma simples e direto, oferecendo um meio genérico que possibilita flexibilidade para os mais diversos tipos de situações.
+Esse sistema vem com o desejo de fornecer um GERENCIAMENTO DE ESTOQUE de forma simples e direto, oferecendo um meio genérico que possibilite flexibilidade para os mais diversos tipos de situações.
 
 ### Mais sobre ###
 
