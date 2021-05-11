@@ -259,7 +259,19 @@
                                 <li>
                                     <a href="../paginas/cadastrar_usuario.php">
                                         <i class="metismenu-icon">
-                                        </i>Cadastrar Usuários*
+                                        </i>Usuário
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="../paginas/cadastrar_cliente.php">
+                                        <i class="metismenu-icon">
+                                        </i>Cliente
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="../paginas/cadastrar_cliente.php">
+                                        <i class="metismenu-icon">
+                                        </i>Produto
                                     </a>
                                 </li>
                             </ul>
