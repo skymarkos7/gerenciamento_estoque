@@ -202,12 +202,6 @@ session_start(); //inicia uma sessão
                                             </i><s>Pedidos</s>
                                         </a>
                                     </li>
-                                    <li>
-                                        <a href="elements-badges-labels.html">
-                                            <i class="metismenu-icon">
-                                            </i><s>Estatísticas</s>
-                                        </a>
-                                    </li>
                             </li>
                         </ul>
                         </li>
@@ -254,13 +248,13 @@ session_start(); //inicia uma sessão
                                 <li>
                                     <a href="../paginas/cadastrar_cliente.php">
                                         <i class="metismenu-icon">
-                                        </i><s>Cadastrar Clientes*</s>
+                                        </i>Estoque mínimo
                                     </a>
                                 </li>
                                 <li>
                                     <a href="components-maps.html">
                                         <i class="metismenu-icon">
-                                        </i>Maps
+                                        </i>Estatísticas
                                     </a>
                                 </li>
                             </ul>
