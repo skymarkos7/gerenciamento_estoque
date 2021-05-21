@@ -177,7 +177,7 @@
                                 </a>
                                 <ul>
                                     <li>
-                                        <a href="paginas/vender.php">
+                                        <a href="paginas/nova_entrada.php">
                                             <i class="metismenu-icon"></i>
                                             Novo
                                             <img src="img/icone/plus-circle-outline.png" alt="">
@@ -209,7 +209,7 @@
                             </a>
                             <ul>
                                 <li>
-                                    <a href="paginas/cadastrar_produto.php">
+                                    <a href="paginas/nova_saida.php">
                                         <i class="metismenu-icon"></i>
                                         Novo
                                         <img src="img/icone/minus-circle-outline.png" alt="">
@@ -286,11 +286,7 @@
             <div class="app-main__outer">
 
 
-
-
                  <!---------------- toto miolo do site DASBOARD - PAINEL DE CONTROLE POR PADRÃO ------------------------>
-
-
 
                     <div class="app-main__inner">
 
@@ -376,12 +372,10 @@
 
 
 <!--- gráfico com char.js  -->
-<div width="40" height="2">
 
-                                                           
-<div>
-    <canvas id="myChart"></canvas>
-  </div>
+
+                                                          
+<div><canvas id="myChart"></canvas></div>
 
 
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
@@ -394,8 +388,8 @@ var myChart = new Chart(ctx, {
     data: {
         labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
         datasets: [{
-            label: '# of Votes',
-            data: [12, 19, 3, 5, 2, 3],
+            label: '# Dados', 
+            data: [12, 19, 3, 5, 7, 3],
             backgroundColor: [
                 'rgba(255, 99, 132, 0.2)',
                 'rgba(54, 162, 235, 0.2)',
@@ -426,7 +420,6 @@ var myChart = new Chart(ctx, {
 </script>
 
 
-</div>
 
 
 
@@ -762,6 +755,5 @@ var myChart = new Chart(ctx, {
         </div>
     </div>
 </body>
-
 
 </html>

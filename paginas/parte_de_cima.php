@@ -184,7 +184,7 @@ session_start(); //inicia uma sessão
                                 </a>
                                 <ul>
                                     <li>
-                                        <a href="vender.php">
+                                        <a href="nova_entrada.php">
                                             <i class="metismenu-icon"></i>                                            
                                             Novo
                                             <img src="../img/icone/plus-circle-outline.png" alt="">
@@ -218,7 +218,7 @@ session_start(); //inicia uma sessão
                             <ul>
 
                                 <li>
-                                    <a href="cadastrar_produto.php">
+                                    <a href="nova_saida.php">
                                         <i class="metismenu-icon"></i>
                                         Novo
                                         <img src="../img/icone/minus-circle-outline.png" alt="">
