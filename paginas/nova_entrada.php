@@ -5,17 +5,17 @@ include_once("parte_de_cima.php");  //inclui o cabeçalho da página que será a
 
 
 <script>
-        function Mudarestado(el) {
+    function Mudarestado(el) {
         var display = document.getElementById(el).style.display;
-        if(display == "none")
+        if (display == "none")
             document.getElementById(el).style.display = 'block';
         else
             document.getElementById(el).style.display = 'none';
     }
-    
-        function ocultando(el) {
+
+    function ocultando(el) {
         var display = document.getElementById(el).style.display;
-        if(display == "none")
+        if (display == "none")
             document.getElementById(el).style.display = 'block';
         else
             document.getElementById(el).style.display = 'none';
@@ -24,107 +24,13 @@ include_once("parte_de_cima.php");  //inclui o cabeçalho da página que será a
 
     function auto(el) {
         var display = document.getElementById(el).style.display;
-        if(display == "none")
+        if (display == "none")
             document.getElementById(el).style.display = 'block';
         else
             document.getElementById(el).style.display = 'none';
 
     }
-
- 
-
-    </script>
-
-    
-
-<button type="button" onclick="ocultando('jaNoEstoque')">Já cadastrado</button>
-<button type="button" onclick="Mudarestado('novoNoEstoque')">Cadastrar novo</button>
-<div id="novoNoEstoque">    
-
-    <form action="" method="POST">
-        <div class="tab-content">
-            <div class="tab-pane tabs-animation fade show active">
-                <div class="main-card mb-3 card">
-                    <div class="card-body">
-                        <div class="form-row">
-                            <div class="col-md-6">
-                                <div class="position-relative form-group">
-                                    <input type="text" class="form-control " name="nome_popular" placeholder="Nome Popular -------------" id="">
-                                </div>
-                            </div>
-
-                            <div class="col-md-6">
-                                <div class="position-relative form-group">
-                                    <input type="text" class="form-control " name="nome_tecnico" placeholder="Nome Tecnico" id="">
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="position-relative form-group">
-                                    <input type="text" class="form-control" name="referencia" placeholder="Referencia" id="">
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="position-relative form-group">
-                                    <input type="text" class="form-control" name="quantidade" placeholder="Quantidade" id="">
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="position-relative form-group">
-                                    <input type="text" class="form-control" name="lugar" placeholder="Localização no Estoque" id="">
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="position-relative form-group">
-                                    <input type="text" class="form-control" name="aplicacao" placeholder="Aplicacao" id="">
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="position-relative form-group">
-                                    <input type="text" class="form-control" name="preco" placeholder="Preco" id="">
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="position-relative form-group">
-                                    <input type="text" class="form-control" name="fabricante" placeholder="Fabricante" id="">
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="position-relative form-group">
-                                    <input type="text" class="form-control" name="fornecedor" placeholder="Fornecedor" id="">
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="position-relative form-group">
-                                    <input type="text" class="form-control" name="categoria" placeholder="Categoria" id="">
-                                </div>
-                            </div>
-                            <div class="segura_possui_nota">
-                                <div class="possui_nota">Possui Nota Fiscal</div>
-                                <label class="switch">
-                                    <input type="checkbox" name="nota" checked>
-                                    <span name="nota" class="slider round"></span>
-                                </label>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <button class="login100-form-btn" id="entrar">castrar</button>
-    </form>
-
-    </div>
-
-
-
-
-
-
-
-
-
-    
-    <div id="jaNoEstoque">    
+</script>
 
 <form action="" method="POST">
     <div class="tab-content">
@@ -197,8 +103,6 @@ include_once("parte_de_cima.php");  //inclui o cabeçalho da página que será a
     </div>
     <button class="login100-form-btn" id="entrar">castrar</button>
 </form>
-
-</div>
 
 
 

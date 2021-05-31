@@ -75,7 +75,9 @@
                                             <div class="card mb-3 widget-chart widget-chart2 text-left w-100">
                                                 <div class="widget-chat-wrapper-outer">
                                                     <div class="widget-chart-wrapper widget-chart-wrapper-lg opacity-10 m-0">
-                                                        <canvas id="canvas"></canvas>
+
+                                                        <canvas id="canvas"></canvas> <!-- não sei se é útil -->
+                                                        
                                                     </div>
                                                 </div>
                                             </div>
