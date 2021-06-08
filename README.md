@@ -15,7 +15,7 @@ Esse sistema vem com o desejo de fornecer um GERENCIAMENTO DE ESTOQUE de forma s
 * mysql
 
 ### Mais sobre ###
-* [Visualizar hospedado](estoque.lourencoautopeca.com.br)
+* [Visualizar hospedado](http://estoque.lourencoautopecas.com.br/paginas/login.php)
 
 ### AUTHORIAL
 **Autor**: marcos lourenço de souza.  
