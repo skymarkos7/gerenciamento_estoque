@@ -5,7 +5,7 @@ Esse sistema vem com o desejo de fornecer um GERENCIAMENTO DE ESTOQUE de forma s
 ### CONSTRUÇÃO ###
 
 - **Interface base**, reaproveitada de um repositório público
-- **Back-and, feito** do zero sem parametros externos, me forçando a pensar por conta própria
+- **Back-and**, feito do zero sem parametros externos, me forçando a pensar por conta própria
 - Construido aos poucos e em épocas diferentes, aproveitando o tempo livre
 
 ### TECNOLOGIAS UTILIZADAS
